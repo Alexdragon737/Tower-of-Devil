@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2f0a1ca2195d0da4a913195115ac1f7a
+timeCreated: 1516636245
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blessing in Disguise
+  fontNames:
+  - Blessing in Disguise
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a1f4ff5d5b6224468522277211feef5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
